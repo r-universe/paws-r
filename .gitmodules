@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "paws"]
-	path = paws
-	url = https://github.com/paws-r/paws
-	shallow = true
-	subdir = paws
-	registered = true
