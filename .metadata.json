@@ -19,6 +19,12 @@
     "oncran": false
   },
   {
+    "package": "paws.compute.p1"
+  },
+  {
+    "package": "paws.compute.p2"
+  },
+  {
     "package": "paws.cost.management",
     "oncran": false
   },
@@ -53,6 +59,12 @@
     "oncran": false
   },
   {
+    "package": "paws.management.p1"
+  },
+  {
+    "package": "paws.management.p2"
+  },
+  {
     "package": "paws.media.services"
   },
   {
@@ -71,6 +83,12 @@
   {
     "package": "paws.security.identity",
     "oncran": false
+  },
+  {
+    "package": "paws.security.identity.p1"
+  },
+  {
+    "package": "paws.security.identity.p2"
   },
   {
     "package": "paws.storage",
