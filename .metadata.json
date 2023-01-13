@@ -2,5 +2,82 @@
   {
     "package": "paws",
     "oncran": true
+  },
+  {
+    "package": "paws.analytics",
+    "oncran": false
+  },
+  {
+    "package": "paws.application.integration",
+    "oncran": false
+  },
+  {
+    "package": "paws.business.applications"
+  },
+  {
+    "package": "paws.compute",
+    "oncran": false
+  },
+  {
+    "package": "paws.cost.management",
+    "oncran": false
+  },
+  {
+    "package": "paws.customer.engagement",
+    "oncran": false
+  },
+  {
+    "package": "paws.database",
+    "oncran": false
+  },
+  {
+    "package": "paws.developer.tools",
+    "oncran": false
+  },
+  {
+    "package": "paws.end.user.computing",
+    "oncran": false
+  },
+  {
+    "package": "paws.game.development"
+  },
+  {
+    "package": "paws.internet.of.things"
+  },
+  {
+    "package": "paws.machine.learning",
+    "oncran": false
+  },
+  {
+    "package": "paws.management",
+    "oncran": false
+  },
+  {
+    "package": "paws.media.services"
+  },
+  {
+    "package": "paws.migration"
+  },
+  {
+    "package": "paws.mobile"
+  },
+  {
+    "package": "paws.networking",
+    "oncran": false
+  },
+  {
+    "package": "paws.robotics"
+  },
+  {
+    "package": "paws.security.identity",
+    "oncran": false
+  },
+  {
+    "package": "paws.storage",
+    "oncran": false
+  },
+  {
+    "package": "paws.common",
+    "oncran": false
   }
 ]

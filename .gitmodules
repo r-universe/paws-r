@@ -1,11 +1,137 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/paws-r/universe
 	shallow = true
 	branch = HEAD
 [submodule "paws"]
 	path = paws
 	url = https://github.com/paws-r/paws
 	shallow = true
-	subdir = paws
+	subdir = cran/paws
+	registered = true
+[submodule "paws.analytics"]
+	path = paws.analytics
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.analytics
+	registered = true
+[submodule "paws.application.integration"]
+	path = paws.application.integration
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.application.integration
+	registered = true
+[submodule "paws.business.applications"]
+	path = paws.business.applications
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.business.applications
+	registered = true
+[submodule "paws.compute"]
+	path = paws.compute
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.compute
+	registered = true
+[submodule "paws.cost.management"]
+	path = paws.cost.management
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.cost.management
+	registered = true
+[submodule "paws.customer.engagement"]
+	path = paws.customer.engagement
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.customer.engagement
+	registered = true
+[submodule "paws.database"]
+	path = paws.database
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.database
+	registered = true
+[submodule "paws.developer.tools"]
+	path = paws.developer.tools
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.developer.tools
+	registered = true
+[submodule "paws.end.user.computing"]
+	path = paws.end.user.computing
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.end.user.computing
+	registered = true
+[submodule "paws.game.development"]
+	path = paws.game.development
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.game.development
+	registered = true
+[submodule "paws.internet.of.things"]
+	path = paws.internet.of.things
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.internet.of.things
+	registered = true
+[submodule "paws.machine.learning"]
+	path = paws.machine.learning
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.machine.learning
+	registered = true
+[submodule "paws.management"]
+	path = paws.management
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.management
+	registered = true
+[submodule "paws.media.services"]
+	path = paws.media.services
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.media.services
+	registered = true
+[submodule "paws.migration"]
+	path = paws.migration
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.migration
+	registered = true
+[submodule "paws.mobile"]
+	path = paws.mobile
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.mobile
+	registered = true
+[submodule "paws.networking"]
+	path = paws.networking
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.networking
+	registered = true
+[submodule "paws.robotics"]
+	path = paws.robotics
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.robotics
+	registered = true
+[submodule "paws.security.identity"]
+	path = paws.security.identity
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.security.identity
+	registered = true
+[submodule "paws.storage"]
+	path = paws.storage
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = cran/paws.storage
+	registered = true
+[submodule "paws.common"]
+	path = paws.common
+	url = https://github.com/paws-r/paws
+	shallow = true
+	subdir = paws.common
 	registered = true
