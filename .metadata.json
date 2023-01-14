@@ -1,7 +1,25 @@
 [
   {
-    "package": "paws",
-    "oncran": true
+    "package": "paws.common",
+    "oncran": false
+  },
+  {
+    "package": "paws.compute.p1"
+  },
+  {
+    "package": "paws.compute.p2"
+  },
+  {
+    "package": "paws.management.p1"
+  },
+  {
+    "package": "paws.management.p2"
+  },
+  {
+    "package": "paws.security.identity.p1"
+  },
+  {
+    "package": "paws.security.identity.p2"
   },
   {
     "package": "paws.analytics",
@@ -17,12 +35,6 @@
   {
     "package": "paws.compute",
     "oncran": false
-  },
-  {
-    "package": "paws.compute.p1"
-  },
-  {
-    "package": "paws.compute.p2"
   },
   {
     "package": "paws.cost.management",
@@ -59,12 +71,6 @@
     "oncran": false
   },
   {
-    "package": "paws.management.p1"
-  },
-  {
-    "package": "paws.management.p2"
-  },
-  {
     "package": "paws.media.services"
   },
   {
@@ -85,17 +91,11 @@
     "oncran": false
   },
   {
-    "package": "paws.security.identity.p1"
-  },
-  {
-    "package": "paws.security.identity.p2"
-  },
-  {
     "package": "paws.storage",
     "oncran": false
   },
   {
-    "package": "paws.common",
-    "oncran": false
+    "package": "paws",
+    "oncran": true
   }
 ]
