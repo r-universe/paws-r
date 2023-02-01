@@ -9,42 +9,6 @@
 	shallow = true
 	subdir = paws.common
 	registered = true
-[submodule "paws.compute.p1"]
-	path = paws.compute.p1
-	url = https://github.com/paws-r/paws
-	shallow = true
-	subdir = cran/paws.compute.p1
-	registered = true
-[submodule "paws.compute.p2"]
-	path = paws.compute.p2
-	url = https://github.com/paws-r/paws
-	shallow = true
-	subdir = cran/paws.compute.p2
-	registered = true
-[submodule "paws.management.p1"]
-	path = paws.management.p1
-	url = https://github.com/paws-r/paws
-	shallow = true
-	subdir = cran/paws.management.p1
-	registered = true
-[submodule "paws.management.p2"]
-	path = paws.management.p2
-	url = https://github.com/paws-r/paws
-	shallow = true
-	subdir = cran/paws.management.p2
-	registered = true
-[submodule "paws.security.identity.p1"]
-	path = paws.security.identity.p1
-	url = https://github.com/paws-r/paws
-	shallow = true
-	subdir = cran/paws.security.identity.p1
-	registered = true
-[submodule "paws.security.identity.p2"]
-	path = paws.security.identity.p2
-	url = https://github.com/paws-r/paws
-	shallow = true
-	subdir = cran/paws.security.identity.p2
-	registered = true
 [submodule "paws.analytics"]
 	path = paws.analytics
 	url = https://github.com/paws-r/paws
