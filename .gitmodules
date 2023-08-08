@@ -2,10 +2,10 @@
 	path = .registry
 	url = https://github.com/paws-r/universe
 	branch = HEAD
-[submodule "paws.common"]
-	path = paws.common
+[submodule "paws"]
+	path = paws
 	url = https://github.com/paws-r/paws
-	subdir = paws.common
+	subdir = cran/paws
 [submodule "paws.analytics"]
 	path = paws.analytics
 	url = https://github.com/paws-r/paws
@@ -18,6 +18,10 @@
 	path = paws.business.applications
 	url = https://github.com/paws-r/paws
 	subdir = cran/paws.business.applications
+[submodule "paws.common"]
+	path = paws.common
+	url = https://github.com/paws-r/paws
+	subdir = paws.common
 [submodule "paws.compute"]
 	path = paws.compute
 	url = https://github.com/paws-r/paws
@@ -86,7 +90,3 @@
 	path = paws.storage
 	url = https://github.com/paws-r/paws
 	subdir = cran/paws.storage
-[submodule "paws"]
-	path = paws
-	url = https://github.com/paws-r/paws
-	subdir = cran/paws
