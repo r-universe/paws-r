@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/paws-r/paws-r.r-universe.dev
 	branch = HEAD
+[submodule "awscrt"]
+	path = awscrt
+	url = https://github.com/paws-r/aws-crt-r
 [submodule "paws"]
 	path = paws
 	url = https://github.com/paws-r/paws
@@ -14,10 +17,6 @@
 	path = paws.application.integration
 	url = https://github.com/paws-r/paws
 	subdir = cran/paws.application.integration
-[submodule "paws.business.applications"]
-	path = paws.business.applications
-	url = https://github.com/paws-r/paws
-	subdir = cran/paws.business.applications
 [submodule "paws.common"]
 	path = paws.common
 	url = https://github.com/paws-r/paws
@@ -46,14 +45,6 @@
 	path = paws.end.user.computing
 	url = https://github.com/paws-r/paws
 	subdir = cran/paws.end.user.computing
-[submodule "paws.game.development"]
-	path = paws.game.development
-	url = https://github.com/paws-r/paws
-	subdir = cran/paws.game.development
-[submodule "paws.internet.of.things"]
-	path = paws.internet.of.things
-	url = https://github.com/paws-r/paws
-	subdir = cran/paws.internet.of.things
 [submodule "paws.machine.learning"]
 	path = paws.machine.learning
 	url = https://github.com/paws-r/paws
@@ -62,26 +53,10 @@
 	path = paws.management
 	url = https://github.com/paws-r/paws
 	subdir = cran/paws.management
-[submodule "paws.media.services"]
-	path = paws.media.services
-	url = https://github.com/paws-r/paws
-	subdir = cran/paws.media.services
-[submodule "paws.migration"]
-	path = paws.migration
-	url = https://github.com/paws-r/paws
-	subdir = cran/paws.migration
-[submodule "paws.mobile"]
-	path = paws.mobile
-	url = https://github.com/paws-r/paws
-	subdir = cran/paws.mobile
 [submodule "paws.networking"]
 	path = paws.networking
 	url = https://github.com/paws-r/paws
 	subdir = cran/paws.networking
-[submodule "paws.robotics"]
-	path = paws.robotics
-	url = https://github.com/paws-r/paws
-	subdir = cran/paws.robotics
 [submodule "paws.security.identity"]
 	path = paws.security.identity
 	url = https://github.com/paws-r/paws
